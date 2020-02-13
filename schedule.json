@@ -1,7 +1,7 @@
 {
     "Section A":[{
         "14.02": [{
-            "Morning": "From 8:30AM to 9:30AM:    From 9:30AM to 10:30AM:    From 10:30AM to 11:30AM:    ",
+            "Morning": "From 8:30AM to 9:30AM: Computer Networks    From 9:30AM to 11:30AM: Internship    ",
             "Afternoon" : "There is no class this Afternoon"
         }],
         "16.02": [{
@@ -52,7 +52,7 @@
             "Afternoon" : "From 12:30PM to 1:30PM: HTML, CSS and Java Script   From 1:30PM to 2:30PM: Khmer Culture and History  From 2:30PM to 3:30PM: Programming in Python   From 3:30PM to 4:30PM: Computer Network   From 4:30PM to 5:30PM: Physical Education "
         }],
         "28.02": [{
-            "Morning": "From 8:30AM to 9:30AM:    From 9:30AM to 10:30AM:    From 10:30AM to 11:30AM:    ",
+            "Morning": "Morning": "From 8:30AM to 9:30AM: Computer Networks    From 9:30AM to 11:30AM: Internship    ",
             "Afternoon" : "There is no class this Afternoon"
         }],
 
@@ -105,7 +105,7 @@
             "Afternoon" : "From 12:30PM to 1:30PM: HTML, CSS and Java Script   From 1:30PM to 2:30PM: Khmer Culture and History  From 2:30PM to 3:30PM: Programming in Python   From 3:30PM to 4:30PM: Computer Network   From 4:30PM to 5:30PM: Physical Education "
         }],
         "13.03": [{
-            "Morning": "From 8:30AM to 9:30AM:    From 9:30AM to 10:30AM:    From 10:30AM to 11:30AM:    ",
+            "Morning": "From 8:30AM to 9:30AM: Computer Networks    From 9:30AM to 11:30AM: Internship    ",
             "Afternoon" : "There is no class this Afternoon"
         }],
 
@@ -158,7 +158,7 @@
             "Afternoon" : "From 12:30PM to 1:30PM: HTML, CSS and Java Script   From 1:30PM to 2:30PM: Khmer Culture and History  From 2:30PM to 3:30PM: Programming in Python   From 3:30PM to 4:30PM: Computer Network   From 4:30PM to 5:30PM: Physical Education "
         }],
         "27.03": [{
-            "Morning": "From 8:30AM to 9:30AM:    From 9:30AM to 10:30AM:    From 10:30AM to 11:30AM:    ",
+            "Morning": "From 8:30AM to 9:30AM: Computer Networks    From 9:30AM to 11:30AM: Internship    ",
             "Afternoon" : "There is no class this Afternoon"
         }],
         "29.03": [{
