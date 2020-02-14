@@ -132,8 +132,7 @@
         "20.03": [{
             "Morning": "You have Midterm today",
             "Afternoon" :"You have Midterm today"
-             }]
-        }],
+             }],
         
 
 
@@ -211,4 +210,172 @@
             "Morning": "You have Semester exam today, Good Luck",
             "Afternoon" : "You have Semester exam today, Good Luck"
         }]
+}],
+    "Section B":[{
+        "23.02": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30Pm to 1:30Pm: English Speech and Oral   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "24.02": [{
+            "Morning": "From 8:30Am to 9:30Am: English Speech and Oral   From 9:30Am to 10:30Am:  Basic Mathematics  From 10:30Am to 11:30Am:  TED  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: IT Literacy   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM:  Programming in Python  From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Internship "
+        }],
+        "25.02": [{
+            "Morning": "From 8:30AM to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am: Critical Thinking   From 10:30Am to 11:30Am: Computer Networks   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Computer Networks   From 4:30PM to 5:30PM: Internship "
+        }],
+        "26.02": [{
+            "Morning": "From 8:30AM to 9:30Am: Khmer culture and history   From 9:30AM to 10:30AM: English Grammar and Intensive Vocabulary   From 10:30AM to 11:30AM: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: IT Literacy   From 4:30PM to 5:30PM: Critical Thinking "
+        }],
+        "27.02": [{
+            "Morning": "From 8:30AM to 9:30Am:  Programming in Python  From 9:30AM to 10:30AM: English Speech and Oral   From 10:30AM to 11:30AM: Khmer culture and history   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: HTML CSS and Javascript   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Internship  From 4:30PM to 5:30PM: P.E"
+        }],
+        "28.02": [{
+            "Morning": "From 8:30AM to 9:30Am: IT Literacy   From 9:30AM to 10:30AM: Programming in Python   From 10:30AM to 11:30AM: English Grammar And Intensive Vocabulary   ",
+            "Afternoon" : "No class"}],
+        "01.03": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics   From 1:30PM to 2:30PM: English Speech and Oral   From 2:30PM to 3:30PM: Internship   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "02.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Basic Mathematics   From 9:30Am to 10:30Am: Internship   From 10:30Am to 11:30Am:  English Speech and Oral  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics  From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: Khmer culture and history   From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Computer Networks"
+        }],
+        "03.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am:  Critical Thinking  From 10:30Am to 11:30Am: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Comprehensive Japanese   From 4:30PM to 5:30PM: Internship "
+        }],
+        "04.03": [{
+            "Morning": "From 8:30Am to 9:30Am:  Programming in Python  From 9:30Am to 10:30Am: English Grammar and Intensive Vocabulary   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Comprehensive Japanese   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Critical Thinking  From 4:30PM to 5:30PM: Critical Thinking"
+        }],
+        "05.03": [{
+            "Morning": "From 8:30Am to 9:30Am:  Comprehensive Japanese  From 9:30Am to 10:30Am: IT Literacy   From 10:30Am to 11:30Am:  Programming in Python  ",
+            "Afternoon" : "From 12:30PM to 1:30PM:  Computer Networks  From 1:30PM to 2:30PM: HTML CSS and Javascript   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: TED   From 4:30PM to 5:30PM: P.E "
+        }],
+        "06.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Internship   From 9:30Am to 10:30Am: Programming in Python   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "No Class "}],
+        "09.03": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30Pm to 1:30Pm: English Speech and Oral   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "10.03": [{
+            "Morning": "From 8:30Am to 9:30Am: English Speech and Oral   From 9:30Am to 10:30Am:  Basic Mathematics  From 10:30Am to 11:30Am:  TED  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: IT Literacy   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM:  Programming in Python  From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Internship "
+        }],
+        "11.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am: Critical Thinking   From 10:30Am to 11:30Am: Computer Networks   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Computer Networks   From 4:30PM to 5:30PM: Internship "
+        }],
+        "12.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Khmer culture and history   From 9:30AM to 10:30AM: English Grammar and Intensive Vocabulary   From 10:30AM to 11:30AM: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: IT Literacy   From 4:30PM to 5:30PM: Critical Thinking "
+        }],
+        "13.03": [{
+            "Morning": "From 8:30AM to 9:30Am:  Programming in Python  From 9:30AM to 10:30AM: English Speech and Oral   From 10:30AM to 11:30AM: Khmer culture and history   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: HTML CSS and Javascript   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Internship  From 4:30PM to 5:30PM: P.E"
+        }],
+        "14.03": [{
+            "Morning": "From 8:30AM to 9:30Am: IT Literacy   From 9:30AM to 10:30AM: Programming in Python   From 10:30AM to 11:30AM: English Grammar And Intensive Vocabulary   ",
+            "Afternoon" : "No class"}],
+        "15.03": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics   From 1:30PM to 2:30PM: English Speech and Oral   From 2:30PM to 3:30PM: Internship   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "16.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Basic Mathematics   From 9:30Am to 10:30Am: Internship   From 10:30Am to 11:30Am:  English Speech and Oral  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics  From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: Khmer culture and history   From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Computer Networks"
+        }],
+        "17.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am:  Critical Thinking  From 10:30Am to 11:30Am: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Comprehensive Japanese   From 4:30PM to 5:30PM: Internship "
+        }],
+        "18.03": [{
+            "Morning": "From 8:30Am to 9:30Am:  Programming in Python  From 9:30Am to 10:30Am: English Grammar and Intensive Vocabulary   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Comprehensive Japanese   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Critical Thinking  From 4:30PM to 5:30PM: Critical Thinking"
+        }],
+        "19.03": [{
+            "Morning": "From 8:30Am to 9:30Am:  Comprehensive Japanese  From 9:30Am to 10:30Am: IT Literacy   From 10:30Am to 11:30Am:  Programming in Python  ",
+            "Afternoon" : "From 12:30PM to 1:30PM:  Computer Networks  From 1:30PM to 2:30PM: HTML CSS and Javascript   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: TED   From 4:30PM to 5:30PM: P.E "
+        }],
+        "20.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Internship   From 9:30Am to 10:30Am: Programming in Python   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "No Class "
+        }],
+        "22.03": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30Pm to 1:30Pm: English Speech and Oral   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "23.03": [{
+            "Morning": "From 8:30Am to 9:30Am: English Speech and Oral   From 9:30Am to 10:30Am:  Basic Mathematics  From 10:30Am to 11:30Am:  TED  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: IT Literacy   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM:  Programming in Python  From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Internship "
+        }],
+        "24.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am: Critical Thinking   From 10:30Am to 11:30Am: Computer Networks   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Computer Networks   From 4:30PM to 5:30PM: Internship "
+        }],
+        "25.03": [{
+            "Morning": "From 8:30AM to 9:30Am: Khmer culture and history   From 9:30AM to 10:30AM: English Grammar and Intensive Vocabulary   From 10:30AM to 11:30AM: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: IT Literacy   From 4:30PM to 5:30PM: Critical Thinking "
+        }],
+        "26.03": [{
+            "Morning": "From 8:30AM to 9:30Am:  Programming in Python  From 9:30AM to 10:30AM: English Speech and Oral   From 10:30AM to 11:30AM: Khmer culture and history   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: HTML CSS and Javascript   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Internship  From 4:30PM to 5:30PM: P.E"
+        }],
+        "27.03": [{
+            "Morning": "From 8:30AM to 9:30Am: IT Literacy   From 9:30AM to 10:30AM: Programming in Python   From 10:30AM to 11:30AM: English Grammar And Intensive Vocabulary   ",
+            "Afternoon" : "No class"
+        }],
+        "29.03": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics   From 1:30PM to 2:30PM: English Speech and Oral   From 2:30PM to 3:30PM: Internship   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "30.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Basic Mathematics   From 9:30Am to 10:30Am: Internship   From 10:30Am to 11:30Am:  English Speech and Oral  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Basic Mathematics  From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: Khmer culture and history   From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Computer Networks"
+        }],
+        "31.03": [{
+            "Morning": "From 8:30Am to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am:  Critical Thinking  From 10:30Am to 11:30Am: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Comprehensive Japanese   From 4:30PM to 5:30PM: Internship "
+        }],
+        "01.04": [{
+            "Morning": "From 8:30Am to 9:30Am:  Programming in Python  From 9:30Am to 10:30Am: English Grammar and Intensive Vocabulary   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Comprehensive Japanese   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Critical Thinking  From 4:30PM to 5:30PM: Critical Thinking"
+        }],
+        "02.04": [{
+            "Morning": "From 8:30Am to 9:30Am:  Comprehensive Japanese  From 9:30Am to 10:30Am: IT Literacy   From 10:30Am to 11:30Am:  Programming in Python  ",
+            "Afternoon" : "From 12:30PM to 1:30PM:  Computer Networks  From 1:30PM to 2:30PM: HTML CSS and Javascript   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: TED   From 4:30PM to 5:30PM: P.E "
+        }],
+        "03.04": [{
+            "Morning": "From 8:30AM to 9:30Am: Internship   From 9:30Am to 10:30Am: Programming in Python   From 10:30Am to 11:30Am: HTML CSS and Javascript   ",
+            "Afternoon" : "No Class "
+        }],
+        "05.04": [{
+            "Morning": "No class this morning",
+            "Afternoon" : "From 12:30Pm to 1:30Pm: English Speech and Oral   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM: English Grammar and Intensive Vocabulary   From 3:30PM to 4:30PM: Internship   From 4:30PM to 5:30PM: Internship"
+        }],
+        "06.04": [{
+            "Morning": "From 8:30Am to 9:30Am: English Speech and Oral   From 9:30Am to 10:30Am:  Basic Mathematics  From 10:30Am to 11:30Am:  TED  ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: IT Literacy   From 1:30PM to 2:30PM: Basic Mathematics   From 2:30PM to 3:30PM:  Programming in Python  From 3:30PM to 4:30PM: HTML CSS and Javascript   From 4:30PM to 5:30PM: Internship "
+        }],
+        "07.04": [{
+            "Morning": "From 8:30AM to 9:30Am: Critical Thinking   From 9:30Am to 10:30Am: Critical Thinking   From 10:30Am to 11:30Am: Computer Networks   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Khmer culture and history   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: Computer Networks   From 4:30PM to 5:30PM: Internship "
+        }],
+        "08.04": [{
+            "Morning": "From 8:30AM to 9:30Am: Khmer culture and history   From 9:30AM to 10:30AM: English Grammar and Intensive Vocabulary   From 10:30AM to 11:30AM: Programming in Python   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: Computer Networks   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: HTML CSS and Javascript   From 3:30PM to 4:30PM: IT Literacy   From 4:30PM to 5:30PM: Critical Thinking "
+        }],
+        "09.04": [{
+            "Morning": "From 8:30AM to 9:30Am:  Programming in Python  From 9:30AM to 10:30AM: English Speech and Oral   From 10:30AM to 11:30AM: Khmer culture and history   ",
+            "Afternoon" : "From 12:30PM to 1:30Pm: HTML CSS and Javascript   From 1:30PM to 2:30PM: Internship   From 2:30PM to 3:30PM: Computer Networks   From 3:30PM to 4:30PM:  Internship  From 4:30PM to 5:30PM: P.E"
+        }],
+        "10.04": [{
+            "Morning": "From 8:30AM to 9:30Am: IT Literacy   From 9:30AM to 10:30AM: Programming in Python   From 10:30AM to 11:30AM: English Grammar And Intensive Vocabulary   ",
+            "Afternoon" : "No class"
+        }]
+    }]
 }
